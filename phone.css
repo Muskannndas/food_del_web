@@ -1,0 +1,20 @@
+/*Navigation*/
+#navbar{
+    flex-direction: column
+}
+#home{
+    height:370px ;
+
+}
+#home::before{
+    height:480px ;
+    
+}
+#home p{
+    font-size: 13px;
+    
+}
+/*Services section*/
+#services-container{
+    flex-direction: column;
+}
